@@ -6,7 +6,8 @@
 
 #define SIZE    sizeof(struct sockaddr_in)
 
-// 작업1
+// 작업1 6584676
+// 작업2
 
 int main()
 {
